@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486937234 source:/home/rubal501/Escritorio/NoDeberiaEstarAqui/numero10/main.cpp
+	<iostream>
+	<iomanip>
+
